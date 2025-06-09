@@ -1,50 +1,8 @@
-# Welcome to your Expo app 👋
-
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
-
-## Get started
-
-1. Install dependencies
-
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+![Desktop 2025-06-09 1-40-26 PM-31](https://github.com/user-attachments/assets/08e821c1-bba7-4bbe-9359-b183c200850f)
+![Desktop 2025-06-09 1-40-08 PM-666](https://github.com/user-attachments/assets/71c6edf8-31f4-48fc-a334-94992e29ae2b)
+![Desktop 2025-06-09 1-57-07 PM-576](https://github.com/user-attachments/assets/5fdf6f1d-1663-46ed-8062-987bf4429a31)
+![Desktop 2025-06-09 1-57-11 PM-323](https://github.com/user-attachments/assets/036f7a02-5806-443d-a47d-e6631f771f8a)
+![Desktop 2025-06-09 1-40-12 PM-768](https://github.com/user-attachments/assets/92aa6f06-8e3f-4cea-b8f3-e47c4a6113b1)
+![Desktop 2025-06-09 1-57-28 PM-109](https://github.com/user-attachments/assets/d8ace4b1-effc-428b-879d-ad985098d0b1)
+![Desktop 2025-06-09 1-40-19 PM-789](https://github.com/user-attachments/assets/0def11de-0f08-4d08-88e6-6fa24413ad90)
+![Desktop 2025-06-09 1-40-28 PM-346](https://github.com/user-attachments/assets/a20aab3e-d118-4fc1-a03c-6e85ddface6f)
